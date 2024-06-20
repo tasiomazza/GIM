@@ -1,73 +1,57 @@
 # Grafica in movimento 
-CV224.03   
-24h (su un totale di 40h)   
 
 
-## Obiettivi 
-Il corso introduce brevemente le nozioni di tecniche di animazione dell'immagine in movimento: stop-motion, keyframing, procedurale, interattiva e motion-capture.  
-Attraverso la visione di filmati storici e contemporanei verrà offerto un ventaglio di esempi e di filmati d’autore nel campo dell’arte e del-la comunicazione; l’obiettivo è quello di sensibilizzare gli studenti sul movimento, inteso come forma. Il fine ultimo del corso è quello di far acquisire i rudimenti di un metodo per progettare con le immagini e la grafica, esteso alla dimensione temporale. Verranno inoltre introdotte alcune nozioni di programmazione con accento sulla cinematica.  
 
-## Modalità didattica 
-Tramite un prima serie di piccoli esercizi pratici gli studenti potranno sperimentare alcuni concetti basilari della “messa in movimento” di forme semplici. Esercizi successivi si concentreranno invece sul movimento come portatore di significato. Ogni esercizio verrà introdotto assieme ad un quadro concettuale e alle nozioni tecniche (minime) per la sua realizzazione.
 
-## Risultato atteso 
-Consegna a fine corso degli esercizi, ovvero: una serie di animazioni tematiche a 2 e 3 frames, in loop; una duplice animazione interattiva, un’animazione con testo in movimento, un esercizio con il codce.
+# Esercizio 1A
 
-## Pianificazione lezioni 
-La visione de filmati storici verrà svolta in gruppo (ca. 1.5h per lezione). Viene prevista una critica collettiva e discussione analitica. Gli esercizi potranno essere svolti in classe. Per la critica agli esercizi si prevedono incontri in piccoli gruppi o con tutta la classe.
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/acceso_spento_2.html
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/acceso_spento_3.html
 
-## Valutazione 
-Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
 
-## Risorse
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/aperto_chiuso_2.html
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/aperto_chiuso_3.html
 
-#### Scrivere e distribuire codice
-- [Visual Studio](https://code.visualstudio.com)
-- [GitHub Desktop](https://desktop.github.com)
 
-#### Documentarsi e imparare a programmare in JavaScript
-- [Mozilla: JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Mozilla: Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [Eloquent JavaScript](https://eloquentjavascript.net)¹, Marijn Haverbeke
-- [The Nature Of Code](https://natureofcode.com/random/)¹, Daniel Shiffmann
-- [The Coding Train](https://thecodingtrain.com)², Daniel Shiffmann
-- [Learn p5js](https://p5js.org/learn/)
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/rotazione_2.html
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/rotazione_3.html
 
-¹ È possibile comandare la versione cartacea<br/>
-² Lezioni video
 
-## Link ai progetti
-- Alberti Gaia	https://github.com/Gaialberti01/GIM		
-- Amelotti Ginevra  https://github.com/AmelottiGinevra/GIM
-- Assamoi Matteo  https://github.com/MatteoAssamoi/GIMM
-- Bassani Mirko  https://github.com/BassaniMirko/GIM
-- Benedetti Olivia  https://github.com/GattoViola/GIM
-- Bettazza Simone   https://github.com/simobobobo/GIM
-- Bianchetti Giorgia    https://github.com/gbnchtt/GIM
-- Brekashvili Anana	https://github.com/Anana-B/GIM
-- Camathias Nathan  https://github.com/NathanCamathias/GIM
-- Charai Ines
-- Chicco Jacopo https://github.com/jakyten/GIM
-- Copa Arianna  https://github.com/ariannacopa/GIM
-- Esposito Gennaro	https://github.com/GennEspo/GIM
-- Lapesa Greta  https://github.com/GretaLapesa/GIM
-- Mariucci Leonardo  https://github.com/LeoMariu/GIM
-- Martins Da Silva Margarida  https://github.com/margaridamartinss/GIM
-- Mazza Tasio   https://github.com/tasiomazza/GIM
-- Millenaar Luciana  https://github.com/MillenaarLuciana/GIM
-- Montanelli Mirta  https://github.com/mirtamontanelli/GIM
-- Paredes Juliana	https://github.com/JulianaParedes/GIM		
-- Pejrani Andrea  https://github.com/AndreaPejrani/GIM
-- Polledri Nathalie https://github.com/nathaliepolledri/GIM
-- Puttini Michelle	https://github.com/michelleputtini/GIM
-- Ravetti Andrea    https://github.com/ravettiandrea/GIM
-- Reviglio Marta    https://github.com/martareviglio/GIM
-- Scenini Zoe   https://github.com/zoescenini/GIM
-- Sommaiuolo Cristian	https://github.com/XianSom/GIM		
-- Spanò Beatrice  https://github.com/BeatriceSpano/GIM
-- Stanga Tommaso	https://github.com/tommifunky/GIM
-- Vaglini Valerio   https://github.com/valeriovaglini/GIM
-- Wiesendanger Anastasia  https://github.com/AnastasiaWiesendanger/GIM
-- Zanetti Piero	https://github.com/ZanettiPiero/GIM
-- Zingariello Samanta   https://github.com/Samyzinga/GIM
-- Zucca Giulia	https://github.com/ZuccaGiulia/GIM										
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/spostamento_2.html
+https://tasiomazza.github.io/GIM/Esercizio_1A/1A/spostamento_3.html
+
+
+
+# Esercizio 1B
+
+https://tasiomazza.github.io/GIM/Esercizio_1B/1B/index.html
+
+
+
+# Esercizio 1C
+
+https://tasiomazza.github.io/GIM/Esercizio_1C/README.md
+
+
+
+# Esercizio 2
+
+https://tasiomazza.github.io/GIM/Esercizio_2/1/bussub.html
+https://tasiomazza.github.io/GIM/Esercizio_2/2/calorecolare.html
+
+
+
+# Esercizio 3A
+
+
+https://tasiomazza.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
+https://tasiomazza.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
+https://tasiomazza.github.io/GIM/Esercizio_3A/orologio_personale/index.html
+
+
+
+# Esercizio 3B
+
+https://tasiomazza.github.io/GIM/Esercizio_3B/neve/index.html
+https://tasiomazza.github.io/GIM/Esercizio_3B/pioggia/index.html
+https://tasiomazza.github.io/GIM/Esercizio_3B/pong/index.html
